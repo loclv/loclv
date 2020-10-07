@@ -12,8 +12,6 @@ I'm Loc (call me by `Rock` or `ロック`).
 languages:
  - JS(ES6) / TypeScript
  - PHP
- - Java
- - C#
 
 framework / lib:
  - React / React Native
