@@ -34,3 +34,8 @@ framework / lib:
 ```
 
 [My CodeSignal's profile in here](https://app.codesignal.com/profile/loclv).
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R04Y3IC)
+
