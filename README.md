@@ -22,16 +22,10 @@ I'm Loc (call me by `Rock` or `ロック`).
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-```yaml
-languages:
- - JS(ES6) / TypeScript
- - PHP
+Others:
 
-framework / lib:
- - React / React Native
- - Angular
- - Laravel
-```
+- Maps JS API: [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview), [openlayers](https://openlayers.org/), [Leaflet](https://leafletjs.com/).
+- [RxJS](https://rxjs.dev/)
 
 [My CodeSignal's profile in here](https://app.codesignal.com/profile/loclv).
 
