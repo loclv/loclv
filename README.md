@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 I'm developer.
+I got inspired from [Karma](https://en.wikipedia.org/wiki/Karma) principle.
+
+>Karma as action and reaction: if we show goodness, we will reap goodness.
 
 I'm Loc (call me by `Rock` or `ロック`).
 
@@ -22,7 +25,7 @@ I'm Loc (call me by `Rock` or `ロック`).
 ![Vuetify](https://img.shields.io/badge/Vuetify-35495E?style=for-the-badge&logo=vuetify&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
