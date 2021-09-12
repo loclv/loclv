@@ -50,7 +50,9 @@ Others:
 - Maps JS API: [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview), [openlayers](https://openlayers.org/), [Leaflet](https://leafletjs.com/).
 - [RxJS](https://rxjs.dev/)
 
-[My CodeSignal's profile in here](https://app.codesignal.com/profile/loclv).
+[My CodeSignal's profile](https://app.codesignal.com/profile/loclv).
+
+[daily.dev profile](https://app.daily.dev/loclv) shows how often i read articles in the last year.
 
 ---
 
