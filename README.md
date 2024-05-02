@@ -32,6 +32,7 @@ I'm Loc (call me by `Rock` or `ロック`).
 ![Nuxt](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-35495E?style=for-the-badge&logo=vuetify&logoColor=4FC08D)
 
+![drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=black)
 ![Nodemon](https://img.shields.io/badge/Nodemon-43853D?style=for-the-badge&logo=nodemon&logoColor=black)
@@ -41,9 +42,13 @@ I'm Loc (call me by `Rock` or `ロック`).
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+#### ⚡ Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 🌈 Other tools
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -53,6 +58,10 @@ I'm Loc (call me by `Rock` or `ロック`).
 ![vscode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+#### ☁ Cloud
+
+ <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 Others:
 
