@@ -7,8 +7,6 @@ I got inspired from [Karma](https://en.wikipedia.org/wiki/Karma) principle.
 
 I'm Loc (call me by `Rock` or `ロック`).
 
-![loclv's github stats](https://github-readme-stats.vercel.app/api?username=loclv&show_icons=true&theme=bear)
-
 [Here](https://loclv.hashnode.dev) is my `hashnode` blog.
 
 ### Skill
@@ -29,15 +27,11 @@ I'm Loc (call me by `Rock` or `ロック`).
 ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB)
 ![Qwik](https://img.shields.io/badge/Qwik-20232A?style=for-the-badge&logo=qwik&logoColor=61DAFB)
-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-35495E?style=for-the-badge&logo=vuetify&logoColor=4FC08D)
-
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=black)
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### 🕊️ ORMs
