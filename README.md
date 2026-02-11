@@ -91,6 +91,7 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 ### 🌟 Featured Projects
 
 - [**llm-lean-log**](https://github.com/loclv/llm-lean-log) - A tool for logging and syncing chat sessions with AI agents, optimized for minimal token usage.
+- [satibot](https://github.com/satibot/satibot)
 
 ---
 
