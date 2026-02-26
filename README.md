@@ -12,7 +12,7 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 - 🛠️ **Experience:** 10+ years specializing in TypeScript, Node/Bun, React, and Angular.
 - 🤖 **AI & ML:** Researching and implementing RAG systems and LLM.
 - 🌍 **Languages:** Vietnamese (Native), English (Good), Japanese (fluent communication - JLPT N3).
-- ✍️ **Blog:** [loclv.hashnode.dev](https://loclv.hashnode.dev)
+- ✍️ **Blog:** <https://loclv.hashnode.dev> | <https://dev.to/loclv>
 
 ---
 
