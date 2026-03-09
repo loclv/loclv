@@ -16,6 +16,13 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 
 ---
 
+### 🌟 Featured Projects
+
+- [llm-lean-log](https://github.com/loclv/llm-lean-log) - A tool for logging and syncing chat sessions with AI agents, optimized for minimal token usage.
+- [satibot](https://github.com/satibot/satibot) - A lightweight, memory-aware AI agent framework that never forgets. Inspired by OpenClawd and nanobot.
+
+---
+
 ## 🛠️ Skills
 
 ### 🌳 Languages / Runtime
@@ -85,13 +92,6 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 
 - **Maps JS API:** [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview), [openlayers](https://openlayers.org/), [Leaflet](https://leafletjs.com/).
 - **Reactive Programming:** [RxJS](https://rxjs.dev/).
-
----
-
-### 🌟 Featured Projects
-
-- [**llm-lean-log**](https://github.com/loclv/llm-lean-log) - A tool for logging and syncing chat sessions with AI agents, optimized for minimal token usage.
-- [satibot](https://github.com/satibot/satibot)
 
 ---
 
