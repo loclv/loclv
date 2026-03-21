@@ -20,6 +20,7 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 
 - [llm-lean-log](https://github.com/loclv/llm-lean-log) - A tool for logging and syncing chat sessions with AI agents, optimized for minimal token usage.
 - [satibot](https://github.com/satibot/satibot) - A lightweight, memory-aware AI agent framework that never forgets. Inspired by OpenClawd and nanobot.
+- [agent-md](https://github.com/loclv/agent-md) - A CLI that helps you write LLM-friendly markdown.
 
 ---
 
