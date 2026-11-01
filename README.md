@@ -22,6 +22,7 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 - [satibot](https://github.com/satibot/satibot) - A lightweight, memory-aware AI agent framework that never forgets. Inspired by OpenClawd and nanobot.
 - [agent-md](https://github.com/loclv/agent-md) - A CLI that helps you write LLM-friendly markdown.
 - [doc-map-builder](https://github.com/loclv/doc-map-builder) - knowledge-base map generator CLI tool that scans a structured directory of documents and compiles a comprehensive, sorted index map (map.json).
+- [mm](https://github.com/loclv/mm) is a Rust rewrite of the MichaelCurrin/auto-commit-msg logic with: Copying AI Agent chat logs with only one command. "commitlint" rules. No AI, save tokens.
 - Currently in active development:
   - [linked-mind](https://github.com/loclv/linked-mind) - Knowledge Base (KB) tool written in Zig. Inspired by Andrej Karpathy's LLM Wiki. A reasoning-based, human-like retrieval RAG system over long documents.
   - [chatcp](https://github.com/loclv/chatcp) - A serverless backend for a multi-agent chat application built with Rust, Cloudflare Workers, and Cloudflare D1. Comes with a Rust CLI client for chatting from the terminal.
