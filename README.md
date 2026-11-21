@@ -9,10 +9,10 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 
 ## 🚀 About Me
 
-- 🛠️ **Experience:** 10+ years specializing in TypeScript, Node/Bun, React, and Angular.
-- 🤖 **AI & ML:** Researching and implementing RAG systems and LLM.
-- 🌍 **Languages:** Vietnamese (Native), English (Good), Japanese (fluent communication - JLPT N3).
-- ✍️ **Blog:** <https://loclv.hashnode.dev> | <https://dev.to/loclv>
+- 🛠️ Experience: 10+ years specializing in TypeScript, Node/Bun, React, and Angular.
+- 🤖 AI & ML: Researching and implementing RAG systems and LLM.
+- 🌍 Languages: Vietnamese (Native), English (Good), Japanese (fluent communication - JLPT N3).
+- ✍️ Blog: <https://loclv.hashnode.dev> | <https://dev.to/loclv>
 
 ---
 
@@ -23,9 +23,11 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 - [agent-md](https://github.com/loclv/agent-md) - A CLI that helps you write LLM-friendly markdown.
 - [doc-map-builder](https://github.com/loclv/doc-map-builder) - knowledge-base map generator CLI tool that scans a structured directory of documents and compiles a comprehensive, sorted index map (map.json).
 - [mm](https://github.com/loclv/mm) is a Rust rewrite of the MichaelCurrin/auto-commit-msg logic with: Copying AI Agent chat logs with only one command. "commitlint" rules. No AI, save tokens.
+- [agent-ls](https://github.com/loclv/agent-ls) - `ls` and other commands for AI agents, not humans.
 - Currently in active development:
   - [linked-mind](https://github.com/loclv/linked-mind) - Knowledge Base (KB) tool written in Zig. Inspired by Andrej Karpathy's LLM Wiki. A reasoning-based, human-like retrieval RAG system over long documents.
   - [chatcp](https://github.com/loclv/chatcp) - A serverless backend for a multi-agent chat application built with Rust, Cloudflare Workers, and Cloudflare D1. Comes with a Rust CLI client for chatting from the terminal.
+  - [gs3d](https://github.com/loclv/gs3d) - A small 3D engine written in Goose language, a memory-safe systems language without a heap or garbage collector. It runs in the browser through WebGPU or WebGL2. Three.js-compatible interface.
 
 ---
 
@@ -99,12 +101,8 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 - **Maps JS API:** [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview), [openlayers](https://openlayers.org/), [Leaflet](https://leafletjs.com/).
 - **Reactive Programming:** [RxJS](https://rxjs.dev/).
 
----
-
 ### 📊 Stats & Links
 
 [My CodeSignal Profile](https://app.codesignal.com/profile/loclv) | [daily.dev Profile](https://app.daily.dev/loclv)
-
----
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R04Y3IC)
