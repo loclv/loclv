@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Luu Vinh Loc (Rock)**.  
+I'm "Luu Vinh Loc (Rock)".
 Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳.
 
 > I got inspired from [Karma](https://en.wikipedia.org/wiki/Karma) principle: if we show goodness, we will reap goodness.
@@ -12,7 +12,7 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 - 🛠️ Experience: 10+ years specializing in TypeScript, Node/Bun, React, and Angular.
 - 🤖 AI & ML: Researching and implementing RAG systems and LLM.
 - 🌍 Languages: Vietnamese (Native), English (Good), Japanese (fluent communication - JLPT N3).
-- ✍️ Blog: <https://loclv.hashnode.dev> | <https://dev.to/loclv>
+- ✍️ Blog: <https://loclv.hashnode.dev> | <https://dev.to/loclv> | <https://dopana-blog.pages.dev/>
 
 ---
 
@@ -23,6 +23,7 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 - [agent-md](https://github.com/loclv/agent-md) - A CLI that helps you write LLM-friendly markdown.
 - [doc-map-builder](https://github.com/loclv/doc-map-builder) - knowledge-base map generator CLI tool that scans a structured directory of documents and compiles a comprehensive, sorted index map (map.json).
 - [mm](https://github.com/loclv/mm) is a Rust rewrite of the MichaelCurrin/auto-commit-msg logic with: Copying AI Agent chat logs with only one command. "commitlint" rules. No AI, save tokens.
+- [tenio-draw](https://github.com/tengames/tenio-draw) - Real-time multiplayer collaborative drawing application built with TenIO (Java 21 authoritative server) and LibGDX (shared Desktop LWJGL3 + Web TeaVM client), backed by H2, MySQL-portable persistence layer.
 - [agent-ls](https://github.com/loclv/agent-ls) - `ls` and other commands for AI agents, not humans.
 - Currently in active development:
   - [linked-mind](https://github.com/loclv/linked-mind) - Knowledge Base (KB) tool written in Zig. Inspired by Andrej Karpathy's LLM Wiki. A reasoning-based, human-like retrieval RAG system over long documents.
