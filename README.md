@@ -26,7 +26,7 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
   - [chatcp](https://github.com/loclv/chatcp) - A serverless backend for a multi-agent chat application built with Rust, Cloudflare Workers, and Cloudflare D1. Comes with a Rust CLI client for chatting from the terminal.
   - [gs3d](https://github.com/loclv/gs3d) - A small 3D engine written in Goose language, a memory-safe systems language without a heap or garbage collector. It runs in the browser through WebGPU or WebGL2. Three.js-compatible interface.
 
-Source Base Template:
+Opensource Base Template:
 
 - NestJS - NextJS - tRPC - Prisma - Tailwind - pnpm workspace stack app template: <https://github.com/loclv/nest-next-trpc-prisma>
 - Bun script template: <https://github.com/loclv/bun-script-template>
