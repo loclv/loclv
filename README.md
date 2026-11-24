@@ -33,6 +33,7 @@ Source Base Template:
 - Three.js Rsbuild PWA template using agents-skills, C and WebAssembly: <https://github.com/loclv/threejs-rsbuild-template>
 - Astro framework template website for SPA with agents-skills: <https://github.com/loclv/astro-spa-template>
 - Solid Rsbuild PWA template using bun and agents-skills: <https://github.com/loclv/solid-rsbuild-template>
+- bun-monorepo + Elysia.js + Next.js + React Native Expo + Drizzle ORM: <https://github.com/loclv/bun-monorepo>
 
 ## 🛠️ Skills
 
