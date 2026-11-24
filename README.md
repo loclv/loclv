@@ -3,9 +3,7 @@
 I'm "Luu Vinh Loc (Rock)".
 Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳.
 
-> I got inspired from [Karma](https://en.wikipedia.org/wiki/Karma) principle: if we show goodness, we will reap goodness.
-
----
+>I got inspired from [Karma](https://en.wikipedia.org/wiki/Karma) principle: if we show goodness, we will reap goodness.
 
 ## 🚀 About Me
 
@@ -13,8 +11,6 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 - 🤖 AI & ML: Researching and implementing RAG systems and LLM.
 - 🌍 Languages: Vietnamese (Native), English (Good), Japanese (fluent communication - JLPT N3).
 - ✍️ Blog: <https://loclv.hashnode.dev> | <https://dev.to/loclv> | <https://dopana-blog.pages.dev/>
-
----
 
 ### 🌟 Featured and Open Source Projects
 
@@ -30,7 +26,13 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
   - [chatcp](https://github.com/loclv/chatcp) - A serverless backend for a multi-agent chat application built with Rust, Cloudflare Workers, and Cloudflare D1. Comes with a Rust CLI client for chatting from the terminal.
   - [gs3d](https://github.com/loclv/gs3d) - A small 3D engine written in Goose language, a memory-safe systems language without a heap or garbage collector. It runs in the browser through WebGPU or WebGL2. Three.js-compatible interface.
 
----
+Source Base Template:
+
+- NestJS - NextJS - tRPC - Prisma - Tailwind - pnpm workspace stack app template: <https://github.com/loclv/nest-next-trpc-prisma>
+- Bun script template: <https://github.com/loclv/bun-script-template>
+- Three.js Rsbuild PWA template using agents-skills, C and WebAssembly: <https://github.com/loclv/threejs-rsbuild-template>
+- Astro framework template website for SPA with agents-skills: <https://github.com/loclv/astro-spa-template>
+- Solid Rsbuild PWA template using bun and agents-skills: <https://github.com/loclv/solid-rsbuild-template>
 
 ## 🛠️ Skills
 
@@ -99,8 +101,8 @@ Senior Full Stack Developer & AI Solutions Engineer from Hanoi, Vietnam 🇻🇳
 
 ### 🌍 Others
 
-- **Maps JS API:** [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview), [openlayers](https://openlayers.org/), [Leaflet](https://leafletjs.com/).
-- **Reactive Programming:** [RxJS](https://rxjs.dev/).
+- Maps JS API: [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview), [openlayers](https://openlayers.org/), [Leaflet](https://leafletjs.com/).
+- Reactive Programming: [RxJS](https://rxjs.dev/).
 
 ### 📊 Stats & Links
 
